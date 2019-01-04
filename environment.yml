@@ -1,0 +1,24 @@
+name: caviz
+channels:
+  - pyviz
+  - conda-forge
+  - defaults
+dependencies:
+  - bokeh
+  - cartopy
+  - colorcet
+  - dask
+  - datashader
+  - geoviews
+  - holoviews
+  - hvplot
+  - ipyleaflet
+  - jupyterlab
+  - matplotlib
+  - nbserverproxy
+  - netcdf4
+  - panel
+  - python=3.7
+  - watermark
+  - xarray
+  - zarr
